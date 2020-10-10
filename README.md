@@ -1,3 +1,13 @@
 # Homework02: Visualising Datasets
 
-The Project Link 
+The Project [Link](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02)
+
+## My First Graph:
+<img width="805" alt="GRAPH1" src="https://user-images.githubusercontent.com/70279041/95666803-62649880-0b6e-11eb-9dc4-74d285806a78.png">
+
+In this graph I compared the horsepower of a variety of cars to the acceleration. In this graph, the x-axis represents the horsepower, while the y-axis represents the acceleration. While there appears to be a fairly linear trend between horsepower and acceleration, it is surprising to note how many outliers there are as well. As horsepower increases, acceleration generally decreases. Where I found the data! 
+
+## My Second Graph:
+<img width="865" alt="GRAPH2" src="https://user-images.githubusercontent.com/70279041/95666807-7a3c1c80-0b6e-11eb-9f7a-c79652b8f8e1.png">
+
+In this graph I displayed the GDP of five different countries. Because of the vast difference in GDP between the countries, Akrotiri and American Samoa's GDP's do not even create any volume on the graph. 
