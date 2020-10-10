@@ -10,4 +10,4 @@ In this graph I compared the horsepower of a variety of cars to the acceleration
 ## My Second Graph:
 <img width="625" alt="GRAPH2" src="https://user-images.githubusercontent.com/70279041/95666894-8b395d80-0b6f-11eb-9110-1d06a3ab9283.png">
 
-In this graph I displayed the GDP of five different countries. Because of the vast difference in GDP between the countries, Akrotiri and American Samoa's GDP's do not even create any volume on the graph. In this graph, the x-axis displays the names of the countries and the y-axis represents the GDPs of those countries in the billions. [Here](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets) is where I found the data!
+In this graph I displayed the GDP of five different countries. Because of the vast difference in GDP between the countries, Akrotiri and American Samoa's GDP's do not even create any volume on the graph. In this graph, the x-axis displays the names of the countries (sorted alphebetically) and the y-axis represents the GDPs of those countries in the billions. [Here](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets) is where I found the data!
